@@ -4,4 +4,4 @@
 Программа моделирует поведение вихрей Абрикосова в сверхпроводнике методом Монте-Карло. 
 
 ### Компиляция
-cc -lm getch.c kbhit.c bessel.c vortex2.c -o vortexex
+`cc -lm getch.c kbhit.c bessel.c vortex2.c -o vortexex`
